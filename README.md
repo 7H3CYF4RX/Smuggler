@@ -291,7 +291,7 @@ python smuggler.py example.com \
 
 ### Scan Burp Suite Lab
 ```bash
-python smuggler.py 0a1b0046036d454a80c89e1d00f20011.web-security-academy.net \
+python smuggler.py lab.web-security-academy.net \
   --aggressive \
   --threads 20 \
   --report lab_findings.html
